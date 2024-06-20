@@ -4,7 +4,7 @@ About Me
 - 👋 Hi, I’m @Vharika31, a passionate learner and enthusiast in UI/UX designing, machine learning, web technologies, and data analysis.
 - 👀 I’m currently diving deep into advanced Python, including NumPy, Pandas, and Matplotlib, alongside mastering data structures and algorithms.
 - 💼 I have a keen interest in leveraging machine learning for impactful applications.
-- 
+
 Skills and Technologies
 - UI/UX Designing
 - Machine Learning
