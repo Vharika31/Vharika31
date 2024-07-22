@@ -11,6 +11,7 @@ Skills and Technologies
 - Web Technologies (HTML/CSS, JavaScript, React,Node)
 - Data Analysis with Python (NumPy, Pandas, Matplotlib,scikit learn,seaborn)
 - Data Structures and Algorithms
+- Graphic Designing(Adobe,GIMP,Inkscape, Figma)
 
 Get in Touch
 - LinkedIn: https://www.linkedin.com/in/harika31?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
