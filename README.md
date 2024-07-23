@@ -1,4 +1,4 @@
-Welcome to my GitHub! 👋
+Welcome to my GitHub! 
 
 About Me
 -  Hi, I’m @Vharika31, a passionate learner and enthusiast in UI/UX designing, machine learning, web technologies, and data analysis.
