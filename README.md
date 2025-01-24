@@ -1,23 +1,42 @@
-<h1>Hi 👋, I'm Harika Vavilapalli</h1>
-<p>A passionate learner and enthusiast in UI/UX designing,Web technologies and Machine learning.I have a keen interest in utilising machine learning algorithms to develop innovative and impactful applications that solve real-world problems and drive technological development.</p> 
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/harika31" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/v.harikaaa" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vharika31&show_icons=true&locale=en" alt="Vharika31" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vharika31&" alt="Vharika31" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vharika31&show_icons=true&locale=en&layout=compact" alt="Vharika31" /></p>
+<p align="center" ><img src="https://raw.githubusercontent.com/kaizoku-oh/kaizoku-oh/master/static/myintro.gif"/></p>
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href= "https://www.linkedin.com/in/bayrem-gharssellaoui/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
+  <a href= "https://medium.com/@garssallaoui.bayrem"><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a>
+  <a href= "https://twitter.com/kaizoku_ouh"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>
+  <a href= "https://signal.org"><img src="https://img.icons8.com/color/48/000000/signal-app.png"/></a>
+  <a href= "https://www.youtube.com/channel/UCj_aGuryykHGnmFXHa5kzLQ"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
+</p>
+
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=kaizoku-oh&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kaizoku-oh" />
+  </a>
+  <p>
+    <img src="https://views.whatilearened.today/views/github/kaizoku-oh/views.svg"/>
+    <a href="https://github.com/kaizoku-oh/"><img src="https://img.shields.io/github/followers/kaizoku-oh?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+    <a href="https://github.com/kaizoku-oh?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+    <a href="https://github.com/Naereen/badges"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
+    <a href="mailto:garssallaoui.bayrem@gmail.com?subject=[GitHub]%20🔥%20Ask%20me%20anything&body=Hello%20Bayrem%2C%0A%0AI am%20sending%20you%20this%20mail%20after%20seeing%20your%20GitHub profile%20to..."><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
+    <img src="https://img.shields.io/badge/Os-Debian-a80030"/>
+  </p>
+</p>
+<br/><br/>
+
+<!--
+**kaizoku-oh/kaizoku-oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+- 🔭 I’m currently working on embedded systems, mainly programming and connecting tiny devices to the internet
+- 🌱 I’m currently learning python and docker
+- 👯 I’m looking to collaborate on IoT projects
+- 💬 Ask me about IoT solutions and connecting devices to the cloud
+- 📫 How to reach me: you can reach me from the social media links above
+- 😄 Pronouns: he/him
+- ⚡ Languages: C, Python, Java
+----
+Credit: [kaizoku-oh](https://github.com/kaizoku-oh)
+
+Last Edited on: 19/11/2020
