@@ -48,4 +48,3 @@
 <a href="mailto:vharika.1505@gmail.com"><img src="https://img.shields.io/badge/-vharika.1505@gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/v.harikaaa"><img src="https://img.shields.io/badge/-@v.harikaaa-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
-
