@@ -21,10 +21,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-
 ### 🤝🏻 &nbsp;Connect with Me
-
 <p align="center">
 <a href="https://www.linkedin.com/in/harika31"><img src="https://img.shields.io/badge/-harika31-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:vharika.1505@gmail.com"><img src="https://img.shields.io/badge/-vharika.1505@gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
