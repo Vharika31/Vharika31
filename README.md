@@ -1,10 +1,6 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Harika Vavilapalli</h2>
 ### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Engineering at Vignan's institute of information technology.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-✉️ &nbsp;You can shoot me an email at vharika.1505@gmail.com I'll try to respond as soon as I can.\
+I’m a pre-final year Computer Science and Engineering student at Vignan's Institute of Information Technology, specializing in Artificial Intelligence. With a strong foundation in C++, Python, and data structures and algorithms, I bring a problem-solving mindset to both software development and machine learning applications. I’m experienced in frontend development using ReactJS, proficient in UI/UX design, and skilled at crafting SEO-optimized, responsive web interfaces. I also have practical backend experience with Node.js, Express, and MongoDB, alongside version control expertise with Git. My AI/ML proficiency spans data analytics, machine learning, natural language processing, and artificial intelligence, with hands-on experience using tools like Transformers, Hugging Face, Gradio, Serp API, OpenRouter, Together AI, Groq, Phidata, and Lamatic AI. Additionally, I am exploring cloud and DevOps practices using Docker, AWS (EC2, IAM, S3, RDS/DynamoDB,NAT) and Jenkins for CI/CD. I’m currently leading the GFG Student Chapter at VIIT, organizing technical events, coding competitions, and hands-on workshops. I also serve as the Designer and Content Administrator for the Algozenith-VIIT Club. Driven by curiosity and passion for technology, I'm actively seeking opportunities in software engineering and product management to build impactful solutions and scale products from idea to execution.
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
